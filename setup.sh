@@ -68,3 +68,9 @@ clear
 
 echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
 sleep 0.4
+
+cd
+clear
+mkdir /sdcard/BOTNB
+
+
